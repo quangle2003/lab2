@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Gym Weight",
+        "image": "https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg",
+        "price": 240.00,
+        "reviews": 24
+      },
+      {
+        "id": 2,
+        "name": "Cloud Nike Shoes",
+        "image": "https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg",
+        "price": 480.00,
+        "reviews": 48
+      },
+      {
+        "id": 3,
+        "name": "Summer Addides Shoes",
+        "image": "https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg",
+        "price": 360.00,
+        "reviews": 74
+      }
+    ]
+  }
